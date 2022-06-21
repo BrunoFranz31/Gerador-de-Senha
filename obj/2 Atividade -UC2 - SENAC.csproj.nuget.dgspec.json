@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bruno\\Desktop\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj": {}
+    "C:\\Users\\tioke\\OneDrive\\Área de Trabalho\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bruno\\Desktop\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj": {
+    "C:\\Users\\tioke\\OneDrive\\Área de Trabalho\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj",
+        "projectUniqueName": "C:\\Users\\tioke\\OneDrive\\Área de Trabalho\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj",
         "projectName": "2 Atividade -UC2 - SENAC",
-        "projectPath": "C:\\Users\\Bruno\\Desktop\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj",
-        "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bruno\\Desktop\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\obj\\",
+        "projectPath": "C:\\Users\\tioke\\OneDrive\\Área de Trabalho\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\2 Atividade -UC2 - SENAC.csproj",
+        "packagesPath": "C:\\Users\\tioke\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\tioke\\OneDrive\\Área de Trabalho\\SENAC - EAD\\2 Atividade -UC2 - SENAC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\tioke\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.417\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
         }
       }
     }

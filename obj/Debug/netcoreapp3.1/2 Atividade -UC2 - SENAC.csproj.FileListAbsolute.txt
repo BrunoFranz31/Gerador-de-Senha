@@ -11,3 +11,16 @@ C:\Users\Bruno\Desktop\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp
 C:\Users\Bruno\Desktop\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.dll
 C:\Users\Bruno\Desktop\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.pdb
 C:\Users\Bruno\Desktop\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.genruntimeconfig.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\bin\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.exe
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\bin\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.deps.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\bin\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.runtimeconfig.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\bin\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.runtimeconfig.dev.json
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\bin\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\bin\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.csprojAssemblyReference.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.AssemblyInfoInputs.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.AssemblyInfo.cs
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.csproj.CoreCompileInputs.cache
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.dll
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.pdb
+C:\Users\tioke\OneDrive\Área de Trabalho\SENAC - EAD\2 Atividade -UC2 - SENAC\obj\Debug\netcoreapp3.1\2 Atividade -UC2 - SENAC.genruntimeconfig.cache
